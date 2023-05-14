@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkming_yi_shan_xiang_bu=self.webpackChunkming_yi_shan_xiang_bu||[]).push([[7699],{40198:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/ming-yi-shan-xiang-bu/blog/tags/hola","allTagsPath":"/ming-yi-shan-xiang-bu/blog/tags","count":1}')}}]);

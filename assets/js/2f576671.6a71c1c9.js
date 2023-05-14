@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkming_yi_shan_xiang_bu=self.webpackChunkming_yi_shan_xiang_bu||[]).push([[7242],{54946:a=>{a.exports=JSON.parse('{"permalink":"/ming-yi-shan-xiang-bu/tianji","page":1,"postsPerPage":2,"totalPages":25,"totalCount":50,"nextPage":"/ming-yi-shan-xiang-bu/tianji/page/2","blogDescription":"Blog","blogTitle":"Blog"}')}}]);
